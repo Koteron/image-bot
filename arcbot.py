@@ -6,7 +6,7 @@ import moviepy
 from moviepy.editor import *
 from wand.image import Image
 
-bot = telebot.TeleBot("6293395855:AAGvKQemm4E-VqwPcWSfs9gYKBA8rt-BuXo")
+bot = telebot.TeleBot("")
 image_filename = ""
 video_filename = ""
 got_image = False
