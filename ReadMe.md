@@ -1,0 +1,1 @@
+Another uni task I did. A Telegram bot that can apply some effects to images and videos 
